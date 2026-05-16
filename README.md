@@ -76,29 +76,50 @@ My work commonly involves:
 
 <div align="center">
 
-![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Security](https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS AI](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
+### Verified Certifications
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <br>
+      <sub><b>AWS Certified Solutions Architect – Associate</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AWS-Security%20Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+      <br>
+      <sub><b>AWS Certified Security – Specialty</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <br>
+      <sub><b>AWS Certified AI Practitioner</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+      <br>
+      <sub><b>HashiCorp Certified: Terraform Associate</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
+      <br>
+      <sub><b>CompTIA Cybersecurity Analyst+</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
+      <br>
+      <sub><b>CompTIA Security+</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
-
-## Current Learning Path
-
-I am actively expanding my skills across advanced cloud architecture, Kubernetes, and AI infrastructure.
-
-Currently working toward:
-
-- **AWS Solutions Architect Professional**
-- **AWS Generative AI Developer**
-- **Certified Kubernetes Administrator**
-- **Certified Kubernetes Security Specialist**
-
-My goal is to combine strong AWS architecture, Kubernetes, cloud security, Terraform, and AI-driven security operations into a practical engineering skill set.
 
 ---
 
