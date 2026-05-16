@@ -264,35 +264,46 @@ My goal is to keep building real systems that prove hands-on engineering ability
 
 ---
 
+---
+
 ## GitHub Stats
 
 <div align="center">
 
-<!-- Fixed stats block: uses the correct GitHub username and only public contribution data. -->
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=7twoduo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Gavin Fogwe GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7twoduo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-
-<br>
-<br>
-
-<img src="https://github-readme-streak-stats.demolab.com?user=7twoduo&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7twoduo&theme=github_dark" 
+  alt="Gavin Fogwe GitHub Contribution Summary" 
+  width="90%" 
+/>
 
 <br>
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7twoduo&theme=github_dark" alt="GitHub Profile Summary" />
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7twoduo&theme=github_dark" 
+  alt="Most Used Languages by Repository" 
+  width="44%" 
+/>
 
-</div>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7twoduo&theme=github_dark" 
+  alt="Most Used Languages by Commit" 
+  width="44%" 
+/>
 
----
+<br>
+<br>
 
-## Contact
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7twoduo&theme=github_dark" 
+  alt="GitHub Stats" 
+  width="44%" 
+/>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-gavinfogwe.win-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gavinfogwe.win/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gavin-fogwe/)
-[![GitHub](https://img.shields.io/badge/GitHub-See%20More%20Projects-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7twoduo)
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7twoduo&theme=github_dark&utcOffset=-5" 
+  alt="Productive Time" 
+  width="44%" 
+/>
 
 </div>
