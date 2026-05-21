@@ -366,29 +366,3 @@ My goal is to keep building real systems that prove hands-on engineering ability
 </div>
 
 ---
-
-## Contact
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Open+to+cloud+security%2C+AWS+infrastructure%2C+and+DevSecOps+opportunities;Building+secure+cloud+systems+with+real-world+engineering+patterns" alt="Contact typing animation" />
-
-<br>
-<br>
-
-<a href="https://gavinfogwe.win/">
-  <img src="https://img.shields.io/badge/Portfolio-gavinfogwe.win-orange?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/gavin-fogwe/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/7twoduo">
-  <img src="https://img.shields.io/badge/GitHub-See%20More%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br>
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,50:623CE4,100:FF9900&height=120&section=footer&animation=fadeIn" alt="Animated footer" />
-
-</div>
