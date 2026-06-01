@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,50:623CE4,100:FF9900&height=190&section=header&text=Gavin%20Fogwe&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20Security%20Engineer%20%7C%20AWS%20Infrastructure%20%7C%20Terraform%20%7C%20Zero%20Trust&descSize=18&descAlignY=58" alt="Gavin Fogwe animated profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,50:623CE4,100:FF9900&height=190&section=header&text=Gavin%20Fogwe&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20Engineer%20%7C%20AWS%20Infrastructure%20%7C%20Terraform%20%7C%20Zero%20Trust&descSize=18&descAlignY=58" alt="Gavin Fogwe animated profile header" />
 
 <br>
 
