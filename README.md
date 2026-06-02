@@ -51,7 +51,7 @@ I build secure, repeatable cloud environments using AWS services, Infrastructure
 </p>
 
 <p>
-My strongest areas include AWS networking, IAM, Terraform, CI/CD, cloud security controls, serverless security, logging/monitoring, and production-style infrastructure design. I am especially interested in cloud security engineering, zero-trust access, compliance-aware infrastructure, Kubernetes security, and AI-assisted incident response.
+My strongest areas include AWS networking, IAM, Terraform, CI/CD, cloud security controls, serverless security, logging/monitoring, and production-style infrastructure design. I am especially interested in cloud security engineering, zero-trust access, compliance-aware infrastructure, and AI-assisted incident response.
 </p>
 
 <p>
