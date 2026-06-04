@@ -117,26 +117,53 @@ I approach cloud engineering as business problem solving. The goal is not just t
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=7twoduo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=7twoduo&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7twoduo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
+  <!-- Profile Summary -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7twoduo&theme=github_dark" 
+    alt="GitHub Profile Summary" 
+    width="95%" 
+  />
 
   <br><br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=7twoduo&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="95%" />
+  <!-- Stats Cards -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7twoduo&theme=github_dark" 
+    alt="GitHub Stats" 
+    width="45%" 
+  />
+  &nbsp;
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7twoduo&theme=github_dark&utcOffset=-4" 
+    alt="Productive Time" 
+    width="45%" 
+  />
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7twoduo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <!-- Language Cards -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7twoduo&theme=github_dark" 
+    alt="Repos Per Language" 
+    width="45%" 
+  />
+  &nbsp;
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7twoduo&theme=github_dark" 
+    alt="Most Commit Language" 
+    width="45%" 
+  />
+
+  <br><br>
+
+  <!-- Contribution Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=7twoduo&theme=github-dark&hide_border=true&area=true" 
+    alt="Gavin Fogwe's GitHub Contribution Graph" 
+    width="95%" 
+  />
+
 </div>
 
 ---
