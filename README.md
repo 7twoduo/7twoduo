@@ -267,9 +267,9 @@ I am actively seeking cloud engineering, AWS infrastructure, DevOps, DevSecOps, 
 
 <div align="center">
   <pre>
-    ╔════════════════════════════════════════════════════════════════════╗
-║  <b>SOVEREIGN CLOUD ARCHITECTURE</b> — Engineered by Gavin Fogwe      ║
-║  <code>7twoduo</code> — Terraform the future. Secure the present.     ║
-    ╚════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════╗
+║  SOVEREIGN CLOUD ARCHITECTURE — Engineered by Gavin Fogwe          ║
+║  7twoduo — Terraform the future. Secure the present.               ║
+╚════════════════════════════════════════════════════════════════════╝
   </pre>
 </div>
