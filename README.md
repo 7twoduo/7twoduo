@@ -14,7 +14,7 @@
 <div align="center">
 <pre>
   👑 ╔══════════════════════════════════════════════════════════════╗ 👑
-  ║   I DO NOT DEPLOY INFRASTRUCTURE. I ARCHITECT SOVEREIGNTY.    ║
+   ║  I DO NOT DEPLOY INFRASTRUCTURE. I ARCHITECT SOVEREIGNTY.     ║
      ╚══════════════════════════════════════════════════════════════╝
 </pre>
 </div>
