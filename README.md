@@ -43,9 +43,9 @@
 
 ## ⚔️ The Manifesto
 
-I engineer cloud infrastructure the way architects design cathedrals — **with permanence, precision, and purpose**.
+I engineer cloud infrastructure the way architects design cathedrals  **with permanence, precision, and purpose**.
 
-Every environment I build is a **sovereign state**: fortified by default, observable by design, and automated to outlast its builder. I do not provision resources; I establish **digital dominion** — where security is the foundation, not an afterthought, and where every deployment is a declaration of intent.
+Every environment I build is a **sovereign state**: fortified by default, observable by design, and automated to outlast its builder. I do not provision resources; I establish **digital dominion**  where security is the foundation, not an afterthought, and where every deployment is a declaration of intent.
 
 **My realm spans:**
 
@@ -59,7 +59,7 @@ Every environment I build is a **sovereign state**: fortified by default, observ
 <summary><b>👑 The Philosophy Behind the Architecture</b></summary>
 <br>
 
-> *"I approach cloud engineering as business problem solving at scale. The goal is not merely to create infrastructure. The goal is to build cloud environments that help organizations operate securely, deploy reliably, troubleshoot faster, and reduce unnecessary risk — while I move on to the next fortress."*
+> *"I approach cloud engineering as business problem solving at scale. The goal is not merely to create infrastructure. The goal is to build cloud environments that help organizations operate securely, deploy reliably, troubleshoot faster, and reduce unnecessary risk while I move on to the next fortress."*
 
 </details>
 
@@ -205,7 +205,7 @@ Every environment I build is a **sovereign state**: fortified by default, observ
 ║  ☸️  KUBERNETES & CONTAINER SECURITY      — Master the orchestration layer   ║
 ║  🏗️  ADVANCED AWS ARCHITECTURE           — Multi-account, Landing Zone       ║
 ║  🤖  AI SECURITY & GENAI INFRASTRUCTURE  — Secure the intelligence frontier  ║
-║  ⚡  INCIDENT RESPONSE AUTOMATION         — Detect, respond, remediate fast   ║
+║  ⚡  INCIDENT RESPONSE AUTOMATION         — Detect, respond, remediate fast  ║
 ║  📋  COMPLIANCE-AWARE ARCHITECTURE       — SOC 2, ISO 27001, NIST-ready      ║
 ║  🛠️  PLATFORM ENGINEERING                — Internal Developer Platforms      ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
@@ -267,9 +267,9 @@ I am actively seeking cloud engineering, AWS infrastructure, DevOps, DevSecOps, 
 
 <div align="center">
   <pre>
-    ╔════════════════════════════════════════════════════════════════╗
+    ╔════════════════════════════════════════════════════════════════════╗
     ║  <b>SOVEREIGN CLOUD ARCHITECTURE</b> — Engineered by Gavin Fogwe   ║
-    ║  <code>7twoduo</code> — Terraform the future. Secure the present.       ║
-    ╚════════════════════════════════════════════════════════════════╝
+    ║  <code>7twoduo</code> — Terraform the future. Secure the present.  ║
+    ╚════════════════════════════════════════════════════════════════════╝
   </pre>
 </div>
