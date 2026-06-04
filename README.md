@@ -199,7 +199,7 @@ I am interested in cloud engineering, AWS infrastructure, DevOps, DevSecOps, pla
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/gavin-fogwe/">
+  <a href="https://www.linkedin.com/in/sama-engineer/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/7twoduo">
