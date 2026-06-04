@@ -167,6 +167,7 @@ I use **Terraform, Bash, Python, GitHub Actions, GitLab CI, and Jenkins** to bui
 │  📋  Compliance-Aware Cloud Architecture (SOC2, ISO 27001)     │
 │  🛠️  Platform Engineering & Internal Developer Platforms       │
 └─────────────────────────────────────────────────────────────────┘
+```
 📈 Business Value I Deliver
 <ul>
   <li>✅ <b>Reducing cloud infrastructure risk</b> through secure-by-design architecture</li>
