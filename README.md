@@ -1,7 +1,7 @@
 <!-- 
   ╔══════════════════════════════════════════════════════════════════════════════╗
   ║                         GAVIN FOGWE — GITHUB PROFILE                        ║
-  ║                     Cloud Engineer | AWS | Terraform | Security               ║
+  ║                     Cloud Engineer | AWS | Terraform | Security             ║
   ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -47,9 +47,11 @@ I use **Terraform, Bash, Python, GitHub Actions, GitLab CI, and Jenkins** to bui
 <details>
 <summary><b>🎯 My Philosophy</b></summary>
 <br>
-<<blockquote>
-"I approach cloud engineering as business problem solving. The goal is not just to create infrastructure. The goal is to build cloud environments that help organizations operate securely, deploy reliably, troubleshoot faster, and reduce unnecessary risk."
+
+<blockquote>
+I approach cloud engineering as business problem solving. The goal is not just to create infrastructure. The goal is to build cloud environments that help organizations operate securely, deploy reliably, troubleshoot faster, and reduce unnecessary risk.
 </blockquote>
+
 </details>
 
 ---
@@ -91,14 +93,12 @@ I use **Terraform, Bash, Python, GitHub Actions, GitLab CI, and Jenkins** to bui
 
 ## 🧰 Tech Stack
 
-<!-- Skill Icons -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,python,bash,linux,githubactions,gitlab,jenkins,kubernetes&theme=dark&perline=10" alt="Tech Stack Icons" />
 </div>
 
 <br>
 
-<!-- Detailed Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
@@ -117,7 +117,6 @@ I use **Terraform, Bash, Python, GitHub Actions, GitLab CI, and Jenkins** to bui
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Stats & Streak -->
   <table>
     <tr>
       <td>
@@ -129,17 +128,14 @@ I use **Terraform, Bash, Python, GitHub Actions, GitLab CI, and Jenkins** to bui
     </tr>
   </table>
 
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7twoduo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
 
   <br><br>
 
-  <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=7twoduo&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="95%" />
 
   <br><br>
 
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=7twoduo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 </div>
 
@@ -160,30 +156,39 @@ I use **Terraform, Bash, Python, GitHub Actions, GitLab CI, and Jenkins** to bui
 
 ```text
 ┌─────────────────────────────────────────────────────────────────┐
-│  ☸️  Kubernetes & Container Security                           │
-│  🏗️  Advanced AWS Architecture (Multi-Account, Landing Zones)   │
-│  🤖  AI Security & Secure GenAI Infrastructure                 │
-│  ⚡  Incident Response Automation                                │
-│  📋  Compliance-Aware Cloud Architecture (SOC2, ISO 27001)     │
-│  🛠️  Platform Engineering & Internal Developer Platforms       │
+│  ☸️  Kubernetes & Container Security                            │
+│  🏗️  Advanced AWS Architecture: Multi-Account Landing Zones      │
+│  🤖  AI Security & Secure GenAI Infrastructure                  │
+│  ⚡  Incident Response Automation                               │
+│  📋  Compliance-Aware Cloud Architecture: SOC 2 / ISO 27001      │
+│  🛠️  Platform Engineering & Internal Developer Platforms         │
 └─────────────────────────────────────────────────────────────────┘
 ```
-📈 Business Value I Deliver
+
+---
+
+## 📈 Business Value I Deliver
+
 <ul>
   <li>✅ <b>Reducing cloud infrastructure risk</b> through secure-by-design architecture</li>
-  <li>✅ <b>Improving deployment reliability</b> with automated CI/CD and IaC</li>
-  <li>✅ <b>Automating manual cloud operations</b> via Python, Bash, and Lambda</li>
-  <li>✅ <b>Strengthening IAM and access control</b> with least-privilege policies</li>
-  <li>✅ <b>Improving monitoring and alerting</b> with CloudWatch, SNS, and PagerDuty</li>
-  <li>✅ <b>Troubleshooting application and network issues</b> at production scale</li>
-  <li>✅ <b>Building repeatable infrastructure with Terraform</b> modules and workspaces</li>
-  <li>✅ <b>Supporting secure and scalable AWS environments</b> for high-growth teams</li>
+  <li>✅ <b>Improving deployment reliability</b> with automated CI/CD and Infrastructure as Code</li>
+  <li>✅ <b>Automating manual cloud operations</b> through Python, Bash, Lambda, and repeatable workflows</li>
+  <li>✅ <b>Strengthening IAM and access control</b> with least-privilege policies and controlled permissions</li>
+  <li>✅ <b>Improving monitoring and alerting</b> with CloudWatch, SNS, health checks, and operational visibility</li>
+  <li>✅ <b>Troubleshooting application and network issues</b> across cloud infrastructure and production-style environments</li>
+  <li>✅ <b>Building repeatable infrastructure</b> with Terraform modules, workspaces, and reusable deployment patterns</li>
+  <li>✅ <b>Supporting secure and scalable AWS environments</b> for teams that need reliability, speed, and control</li>
 </ul>
-🤝 Connect With Me
+
+---
+
+## 🤝 Connect With Me
+
 <div align="center">
   <p>
     <i>I am interested in cloud engineering, AWS infrastructure, DevOps, DevSecOps, platform engineering, and cloud security roles where I can help teams build secure, reliable, and automated systems.</i>
   </p>
+
   <a href="https://www.linkedin.com/in/sama-engineer/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -200,13 +205,16 @@ I use **Terraform, Bash, Python, GitHub Actions, GitLab CI, and Jenkins** to bui
     <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+---
+
 <!-- FOOTER -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:623CE4,100:0A84FF&height=120&section=footer&animation=fadeIn">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:623CE4,100:0A84FF&height=120&section=footer&animation=fadeIn">
   <img alt="Footer Wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:623CE4,100:0A84FF&height=120&section=footer&animation=fadeIn">
 </picture>
+
 <div align="center">
   <sub>Built with ❤️ by Gavin Fogwe | <code>7twoduo</code></sub>
 </div>
-```
