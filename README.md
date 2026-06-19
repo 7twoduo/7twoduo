@@ -35,7 +35,7 @@
 <!-- PROFILE BADGES -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=7twoduo&color=0A84FF&style=for-the-badge&label=PROFILE+IMPRESSIONS" alt="Profile Impressions" />
+  <img src="https://komarev.com/ghpvc/?username=7twoduo&label=PROFILE%20VIEWS&color=0a84ff&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Junior%20Cloud%20Roles-00C853?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-AWS%20%7C%20Terraform%20%7C%20Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Certifications-4%20Active-623CE4?style=for-the-badge" alt="Certifications" />
@@ -52,7 +52,7 @@ I am an early-career cloud infrastructure and security builder focused on **AWS,
 
 My foundation comes from security operations, where I built discipline around **incident reporting, access control, escalation, documentation, policy enforcement, and risk awareness**. I am now applying that operational mindset to cloud engineering.
 
-I am not presenting myself as a senior architect. I am building toward becoming the kind of engineer who can deploy infrastructure, troubleshoot failures, understand logs, secure systems, automate repeatable work, and explain technical decisions clearly.
+I am building toward becoming the kind of engineer who can deploy infrastructure, troubleshoot failures, understand logs, secure systems, automate repeatable work, and explain technical decisions clearly.
 
 **Current direction:**
 *Stronger fundamentals. Better troubleshooting. Secure infrastructure. Real operational skill.*
@@ -150,14 +150,14 @@ I am not presenting myself as a senior architect. I am building toward becoming 
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  🐧  LINUX & TROUBLESHOOTING       — Build real command-line confidence      ║
-║  ⚙️  BASH & PYTHON AUTOMATION      — Automate checks, logs, and cloud tasks  ║
-║  📦  TERRAFORM DEPTH               — Write cleaner, safer, reusable IaC      ║
-║  🔐  AWS SECURITY OPERATIONS       — IAM, logging, encryption, access design  ║
-║  🚀  CI/CD FOUNDATIONS             — Validate, scan, plan, and deploy safely  ║
-║  🐳  CONTAINERS & KUBERNETES       — Build Docker first, then Kubernetes      ║
-║  📊  MONITORING & INCIDENT RESPONSE — Logs, metrics, alarms, runbooks        ║
-║  💰  COST AWARENESS                — Build systems that make financial sense ║
+║  🐧  LINUX & TROUBLESHOOTING        — Build real command-line confidence     ║
+║  ⚙️  BASH & PYTHON AUTOMATION       — Automate checks, logs, and cloud tasks ║
+║  📦  TERRAFORM DEPTH                — Write cleaner, safer, reusable IaC     ║
+║  🔐  AWS SECURITY OPERATIONS        — IAM, logging, encryption, access design ║
+║  🚀  CI/CD FOUNDATIONS              — Validate, scan, plan, and deploy safely ║
+║  🐳  CONTAINERS & KUBERNETES        — Build Docker first, then Kubernetes     ║
+║  📊  MONITORING & INCIDENT RESPONSE — Logs, metrics, alarms, runbooks         ║
+║  💰  COST AWARENESS                 — Build systems that make financial sense ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -168,30 +168,30 @@ I am not presenting myself as a senior architect. I am building toward becoming 
 <div align="center">
 
 <img 
- src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7twoduo&theme=github_dark" 
- alt="GitHub Profile Summary" 
- width="95%" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7twoduo&theme=github_dark" 
+alt="GitHub Profile Summary" 
+width="95%" 
 />
 
 <br><br>
 
 <img 
- src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7twoduo&theme=github_dark" 
- alt="GitHub Stats" 
- width="45%" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7twoduo&theme=github_dark" 
+alt="GitHub Stats" 
+width="45%" 
 />
   <img 
- src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7twoduo&theme=github_dark&utcOffset=-4" 
- alt="Productive Time" 
- width="45%" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7twoduo&theme=github_dark&utcOffset=-4" 
+alt="Productive Time" 
+width="45%" 
 />
 
 <br><br>
 
 <img 
- src="https://github-readme-activity-graph.vercel.app/graph?username=7twoduo&theme=github-dark&hide_border=true&area=true" 
- alt="Gavin Fogwe's GitHub Contribution Graph" 
- width="95%" 
+src="https://github-readme-activity-graph.vercel.app/graph?username=7twoduo&theme=github-dark&hide_border=true&area=true" 
+alt="Gavin Fogwe's GitHub Contribution Graph" 
+width="95%" 
 />
 
 </div>
