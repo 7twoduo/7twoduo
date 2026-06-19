@@ -35,7 +35,7 @@
 <!-- PROFILE BADGES -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=7twoduo&color=0A84FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=7twoduo&color=0A84FF&style=for-the-badge&label=PROFILE+IMPRESSIONS" alt="Profile Impressions" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Junior%20Cloud%20Roles-00C853?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-AWS%20%7C%20Terraform%20%7C%20Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Certifications-4%20Active-623CE4?style=for-the-badge" alt="Certifications" />
